@@ -8,14 +8,14 @@
       "type": "image/png"
     },
     {
-      "src": "/logo.png",
+      "src": "logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": ".",
   "background_color": "#06b6d4",
   "display": "standalone",
-  "scope": "/",
+  "scope": ".",
   "theme_color": "#06b6d4"
 }
